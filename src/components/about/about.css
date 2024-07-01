@@ -8,6 +8,7 @@
     position: relative;
 }
 .about .img img:first-child {
+    background-image: url('../../../public/img/about-1.jpg');
     position: absolute;
     outline: 15px solid #fff;
     width: 50%;
