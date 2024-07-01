@@ -9,7 +9,7 @@ const AboutCard = () => {
                 <div className="container grid2 flexsm">
                     <div className="left">
                         <div className="img">
-                            <img src="./img/about-2.jpg" alt="" />
+                            <img alt="" />
                             <img src="./img/about-1.jpg" alt="" />
                         </div>
                     </div>
