@@ -7,8 +7,12 @@
 .about .img {
     position: relative;
 }
-.about .img img:first-child {
+.about .img div {
     background-image: url('../../../public/img/about-1.jpg');
+    width:400px;
+    height:500px;
+}
+.about .img img:first-child {
     position: absolute;
     outline: 15px solid #fff;
     width: 50%;
