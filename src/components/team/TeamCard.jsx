@@ -10,7 +10,7 @@ const TeamCard = () => {
                 <div className="grid4">
                     <div className="box">
                         <div className="img">
-                            <img src="./img/team-1.JPG" alt="" />
+                            <img src="./img/team-1.jpg" alt="" />
                             <div className="icon">
                                 <i className='fab fa-facebook-f'></i>
                                 <i className='fab fa-twitter'></i>
