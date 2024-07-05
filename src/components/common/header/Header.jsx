@@ -24,7 +24,7 @@ const Header = () => {
                                 <a href="https://www.facebook.com/profile.php?id=61556962362662"><i className='fab fa-facebook-f'></i></a>
                             </li>
                             <li>
-                                <a href="https://initializ.ai"><i className='fab fa-twitter'></i></a>
+                                <a href="https://x.com/initializ"><i className='fab fa-twitter'></i></a>
                             </li>
                             <li>
                                 <a href="https://initializ.ai"><i className='fab fa-linkedin-in'></i></a>
@@ -38,7 +38,7 @@ const Header = () => {
                 <div className="head flex">
                     <div className="logo" >
                         <i className='fa fa-car'></i>
-                        <span>Drivin</span>
+                        <span>Driven</span>
                     </div>
                     <div className="right flex">
                         <div className="nav">

@@ -55,7 +55,7 @@ const Footer = () => {
                             <h3>Follow Us</h3>
                             <ul className='social'>
                                 <li>
-                                    <a href="https://initializ.ai"><i className='fab fa-twitter'></i></a>
+                                    <a href="https://x.com/initializ"><i className='fab fa-twitter'></i></a>
                                 </li>
                                 <li>
                                     <a href="https://www.facebook.com/profile.php?id=61556962362662"><i className='fab fa-facebook-f'></i></a>
