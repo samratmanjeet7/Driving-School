@@ -15,7 +15,7 @@ const Footer = () => {
                             </div>
                             <div className="call" >
                                 <i className='fa fa-location-dot'></i>
-                                <span>123 Street, New York, USA</span>
+                                <span> Kanpur, INDIA</span>
                             </div>
                             <div className="call" >
                                 <i className='fa fa-phone'></i>
@@ -55,16 +55,19 @@ const Footer = () => {
                             <h3>Follow Us</h3>
                             <ul className='social'>
                                 <li>
-                                    <a href=""><i className='fab fa-twitter'></i></a>
+                                    <a href="https://initializ.ai"><i className='fab fa-twitter'></i></a>
                                 </li>
                                 <li>
-                                    <a href=""><i className='fab fa-facebook-f'></i></a>
+                                    <a href="https://www.facebook.com/profile.php?id=61556962362662"><i className='fab fa-facebook-f'></i></a>
                                 </li>
                                 <li>
-                                    <a href=""><i className='fab fa-youtube'></i></a>
+                                    <a href="www.youtube.com/@initializAI"><i className='fab fa-youtube'></i></a>
                                 </li>
                                 <li>
-                                    <a href=""><i className='fab fa-linkedin-in'></i></a>
+                                <li>
+    <a href="https://www.linkedin.com/company/initializ/"><i className='fab fa-linkedin-in'></i></a>
+</li>
+
                                 </li>
                             </ul>
                         </div>
@@ -72,7 +75,7 @@ const Footer = () => {
                 </div>
                 <hr/>
                 <div className='reserved'>
-                    <p><strong>&copy; Driving School,</strong> All Right Reserved by Rodi Shammout</p>
+                    <p><strong>&copy; Driving School,</strong> All Right Reserved by Initializ</p>
                 </div>
             </footer>
         </>

@@ -10,7 +10,7 @@ const Header = () => {
                 <div className="top flex">
                     <div className="left">
                         <i className='fa fa-location-dot'></i>
-                        <span className='street'>123 Street, New York, USA</span>
+                        <span className='street'> Kanpur, INDIA</span>
                         <i className='far fa-clock'></i>
                         <span>Mon - Fri : 09.00 AM - 09.00 PM</span>
                     </div>
@@ -21,16 +21,16 @@ const Header = () => {
                         </div>
                         <ul className='flex'>
                             <li>
-                                <a href=""><i className='fab fa-facebook-f'></i></a>
+                                <a href="https://www.facebook.com/profile.php?id=61556962362662"><i className='fab fa-facebook-f'></i></a>
                             </li>
                             <li>
-                                <a href=""><i className='fab fa-twitter'></i></a>
+                                <a href="https://initializ.ai"><i className='fab fa-twitter'></i></a>
                             </li>
                             <li>
-                                <a href=""><i className='fab fa-linkedin-in'></i></a>
+                                <a href="https://initializ.ai"><i className='fab fa-linkedin-in'></i></a>
                             </li>
                             <li>
-                                <a href=""><i className='fab fa-instagram'></i></a>
+                                <a href="https://www.instagram.com/initializ.ai?igsh=YjQxYWdrZ280NDg0"><i className='fab fa-instagram'></i></a>
                             </li>
                         </ul>
                     </div>
