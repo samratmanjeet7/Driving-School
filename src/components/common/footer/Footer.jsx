@@ -75,7 +75,7 @@ const Footer = () => {
                 </div>
                 <hr/>
                 <div className='reserved'>
-                    <p><strong>&copy; Driving School,</strong> All Right Reserved by Initializ</p>
+                    <p><strong>&copy; Driving School,</strong> All Right Reserved by Manjeet Singh</p>
                 </div>
             </footer>
         </>
